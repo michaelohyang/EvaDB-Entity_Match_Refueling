@@ -1,0 +1,6 @@
+evadb
+openai
+os
+panda
+pytorch
+refuel-autolabel
